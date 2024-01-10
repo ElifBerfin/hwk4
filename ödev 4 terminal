@@ -1,0 +1,48 @@
+Last login: Tue Jan  9 17:25:57 on ttys000
+elifyildirim@Elif-MacBook-Air ~ % git config--global user.name"rep 4"
+git: 'config--global' is not a git command. See 'git --help'.
+elifyildirim@Elif-MacBook-Air ~ % git config--global user.email"elifberfinyildirim@mail.com"
+git: 'config--global' is not a git command. See 'git --help'.
+elifyildirim@Elif-MacBook-Air ~ % git config--global core.editor"netbeans"
+git: 'config--global' is not a git command. See 'git --help'.
+elifyildirim@Elif-MacBook-Air ~ % git config--global--list
+git: 'config--global--list' is not a git command. See 'git --help'.
+elifyildirim@Elif-MacBook-Air ~ % git clone https://github.com/yourusername/yourrepository.git
+Cloning into 'yourrepository'...
+Username for 'https://github.com': rep 4
+Password for 'https://rep 4@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/yourusername/yourrepository.git/'
+elifyildirim@Elif-MacBook-Air ~ % Is..
+zsh: command not found: Is..
+elifyildirim@Elif-MacBook-Air ~ % Is -a rep 4
+zsh: command not found: Is
+elifyildirim@Elif-MacBook-Air ~ % cd rep 4
+cd: string not in pwd: rep
+elifyildirim@Elif-MacBook-Air ~ % nano README.md
+
+  UW PICO 5.09                    File: README.md                     Modified  
+
+*.class /target/
+git add.gitignore
+git comit -m"setting up gitignore"
+git checkout -b feature -1
+cd hmk1
+git add.
+git commit -m"satisfying req"
+git checkout feature -3
+git add.
+git commit-m
+git merge feature -3
+git push origin main feature-1 feature-2 feature -3
+cd hmk4
+git add homework4.txt
+git commit-m"adding answers"
+git push origin main
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
